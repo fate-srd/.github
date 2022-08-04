@@ -8,8 +8,8 @@ repositories:
     issues:
       project_autoassign:
         organization: true
-        name: "Fate SRD Organization Backlog"
-        column: "New"
+        name: Backlog
+        column: New
 labels_clean: true
 
 labels:
