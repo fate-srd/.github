@@ -1,5 +1,5 @@
-![Fate](/img/Fate-CI-style-badge.svg)
+# ![Fate](/img/Fate-CI-style-badge.svg)
 
-# .github
+## .github
 
 Organization-wide controls
