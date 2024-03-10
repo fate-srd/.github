@@ -1,5 +1,3 @@
-![Fate](/img/Fate-CI-style-badge.svg)
-
 # Fate SRD
 
 * [Fate-SRD](https://fate-srd.com/)
